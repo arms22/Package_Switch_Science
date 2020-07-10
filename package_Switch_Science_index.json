@@ -1,7 +1,7 @@
 {
     "packages": [
         {
-            "name": "Switch Science Boards",
+            "name": "switchscience",
             "maintainer": "Switch Science, Inc.",
             "websiteURL": "https://github.com/arms22/Package_Switch_Science",
             "email": "",
@@ -26,7 +26,18 @@
                             "name": "ISP1807 Breakout"
                         }
                     ],
-                    "toolsDependencies": []
+                    "toolsDependencies": [
+                        {
+                            "packager": "adafruit",
+                            "name": "arm-none-eabi-gcc",
+                            "version": "9-2019q4"
+                        },
+                        {
+                            "packager": "adafruit",
+                            "name": "nrfjprog",
+                            "version": "9.4.0"
+                        }
+                    ]
                 }
             ],
             "tools": []
