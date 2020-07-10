@@ -24,7 +24,7 @@
                     "boards": [
                         {
                             "name": "ISP1807 Breakout"
-                        },
+                        }
                     ],
                     "toolsDependencies": []
                 }
