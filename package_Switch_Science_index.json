@@ -1,0 +1,35 @@
+{
+    "packages": [
+        {
+            "name": "Switch Science Boards",
+            "maintainer": "Switch Science, Inc.",
+            "websiteURL": "https://github.com/arms22/Package_Switch_Science",
+            "email": "",
+            "help": {
+                "online": "https://github.com/arms22/Package_Switch_Science"
+            },
+            "platforms": [
+                {
+                    "name": "Switch Science nRF52 Boards",
+                    "architecture": "nrf52",
+                    "version": "0.1.0",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "https://github.com/arms22/Package_Switch_Science"
+                    },
+                    "url": "https://raw.githubusercontent.com/arms22/Package_Switch_Science/master/Switch_Science_nRF52_Boards-0.1.0.zip",
+                    "archiveFileName": "Switch_Science_nRF52_Boards-0.1.0.zip",
+                    "checksum": "SHA-256:7b860fbd847fdb4874ca075392a3f2fa44a224a7821cd83e5b6ff74d197b5f38",
+                    "size": "755",
+                    "boards": [
+                        {
+                            "name": "ISP1807 Breakout"
+                        },
+                    ],
+                    "toolsDependencies": []
+                }
+            ],
+            "tools": []
+        }
+    ]
+}
