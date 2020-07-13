@@ -19,8 +19,8 @@
                     },
                     "url": "https://raw.githubusercontent.com/arms22/Package_Switch_Science/master/Switch_Science_nRF52_Boards-0.1.3.zip",
                     "archiveFileName": "Switch_Science_nRF52_Boards-0.1.3.zip",
-                    "checksum": "SHA-256:3823b76450b3a2b5d2ba1ba81e082014a22603c78a8f8dabb92452f2092a146d",
-                    "size": "14495563",
+                    "checksum": "SHA-256:6415f0bf157a2873ea02c7355bc30bd10d220b1f5310a271110ea9bbaf8fa55a",
+                    "size": "14496025",
                     "boards": [
                         {
                             "name": "ISP1807 Breakout",
